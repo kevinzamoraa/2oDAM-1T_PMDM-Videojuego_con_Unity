@@ -1,16 +1,16 @@
 {
   "context": {
-    "projectPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Packages",
+    "projectPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Packages",
     "unityVersion": "6000.0.22f1"
   },
   "inputs": [
-    "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Packages/manifest.json",
-    "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Packages/packages-lock.json"
+    "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Packages/manifest.json",
+    "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Packages/packages-lock.json"
   ],
   "outputs": {
     "com.unity.collab-proxy@2.5.2": {
       "name": "com.unity.collab-proxy",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.collab-proxy@da7e55b87e08",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.collab-proxy@da7e55b87e08",
       "fingerprint": "da7e55b87e08569f31766e7cabc37bc033c9c7f9",
       "editorCompatibility": "2020.3.48f1",
       "version": "2.5.2",
@@ -18,14 +18,14 @@
     },
     "com.unity.feature.2d@2.0.1": {
       "name": "com.unity.feature.2d",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.feature.2d@deb167410795",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.feature.2d@deb167410795",
       "fingerprint": "deb1674107957b43c4ed1cc1727aaefb79e82396",
       "version": "2.0.1",
       "source": "builtin"
     },
     "com.unity.ide.rider@3.0.31": {
       "name": "com.unity.ide.rider",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ide.rider@7921be93db40",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ide.rider@7921be93db40",
       "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
       "editorCompatibility": "2019.2.6f1",
       "version": "3.0.31",
@@ -33,7 +33,7 @@
     },
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ide.visualstudio@8140e851d83e",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ide.visualstudio@8140e851d83e",
       "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.22",
@@ -41,7 +41,7 @@
     },
     "com.unity.inputsystem@1.11.0": {
       "name": "com.unity.inputsystem",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.inputsystem@5a52a5d2c2ed",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.inputsystem@5a52a5d2c2ed",
       "fingerprint": "5a52a5d2c2eded03b08fc836468972ed3bcbc535",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.0",
@@ -49,7 +49,7 @@
     },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.multiplayer.center@a93af7882da8",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.multiplayer.center@a93af7882da8",
       "fingerprint": "a93af7882da83cd43c943e31913b94a4bd53ad71",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -57,7 +57,7 @@
     },
     "com.unity.render-pipelines.universal@17.0.3": {
       "name": "com.unity.render-pipelines.universal",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.render-pipelines.universal@d00cb9cd2508",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.render-pipelines.universal@d00cb9cd2508",
       "fingerprint": "d00cb9cd25083553ef56960c977f8cb7db541478",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -65,7 +65,7 @@
     },
     "com.unity.test-framework@1.4.5": {
       "name": "com.unity.test-framework",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.test-framework@0a21eb82d95c",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.test-framework@0a21eb82d95c",
       "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
       "editorCompatibility": "2019.4.0a10",
       "version": "1.4.5",
@@ -73,7 +73,7 @@
     },
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.timeline@c58b4ee65782",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.timeline@c58b4ee65782",
       "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.8.7",
@@ -81,7 +81,7 @@
     },
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ugui@4cc4f48d9218",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ugui@4cc4f48d9218",
       "fingerprint": "4cc4f48d9218f1cf92964db4f71aa4603aef03c2",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -89,7 +89,7 @@
     },
     "com.unity.visualscripting@1.9.4": {
       "name": "com.unity.visualscripting",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.visualscripting@0920df93f957",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.visualscripting@0920df93f957",
       "fingerprint": "0920df93f9574f857a55af27bd38fdd9230a3f51",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.9.4",
@@ -97,211 +97,211 @@
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.accessibility",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.ai",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.androidjni",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.animation",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.assetbundle",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.audio",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.cloth",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.director",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.imageconversion",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.imgui",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.jsonserialize",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.particlesystem",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.physics",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.physics2d",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.screencapture",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.terrain",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.terrainphysics",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.tilemap",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.ui",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.uielements",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.umbra",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unityanalytics",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequest",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.vehicles",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.video",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.vr",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.wind",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.xr",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.subsystems",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.hierarchycore",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.ext.nunit@60ef35ffd3cd",
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
@@ -309,7 +309,7 @@
     },
     "com.unity.render-pipelines.core@17.0.3": {
       "name": "com.unity.render-pipelines.core",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.render-pipelines.core@f6eb4d2fb006",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.render-pipelines.core@f6eb4d2fb006",
       "fingerprint": "f6eb4d2fb0063c0eb9e1fde6af7604782cebbfa8",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -317,7 +317,7 @@
     },
     "com.unity.shadergraph@17.0.3": {
       "name": "com.unity.shadergraph",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.shadergraph@7cc8b63e6e2d",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.shadergraph@7cc8b63e6e2d",
       "fingerprint": "7cc8b63e6e2d34c3f199d2ff44ba9334a5bb2358",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -325,7 +325,7 @@
     },
     "com.unity.render-pipelines.universal-config@17.0.3": {
       "name": "com.unity.render-pipelines.universal-config",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.render-pipelines.universal-config@ae49062cc978",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.render-pipelines.universal-config@ae49062cc978",
       "fingerprint": "ae49062cc978b6d8906942c0f746974868ff489e",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
@@ -333,7 +333,7 @@
     },
     "com.unity.2d.animation@10.1.3": {
       "name": "com.unity.2d.animation",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.animation@482d8d36f6a8",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.animation@482d8d36f6a8",
       "fingerprint": "482d8d36f6a871bb441aac7eba62cccb09b1848e",
       "editorCompatibility": "2023.1.0a1",
       "version": "10.1.3",
@@ -341,7 +341,7 @@
     },
     "com.unity.2d.pixel-perfect@5.0.3": {
       "name": "com.unity.2d.pixel-perfect",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.pixel-perfect@e3ae982b672d",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.pixel-perfect@e3ae982b672d",
       "fingerprint": "e3ae982b672dc7cca42a6303bdf53b84c69991da",
       "editorCompatibility": "2021.1.0a1",
       "version": "5.0.3",
@@ -349,7 +349,7 @@
     },
     "com.unity.2d.psdimporter@9.0.3": {
       "name": "com.unity.2d.psdimporter",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.psdimporter@676bae148e11",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.psdimporter@676bae148e11",
       "fingerprint": "676bae148e11de9a02db5a3614b8c56e4f0f44ac",
       "editorCompatibility": "2023.1.0a1",
       "version": "9.0.3",
@@ -357,7 +357,7 @@
     },
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.sprite@998000431e45",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.sprite@998000431e45",
       "fingerprint": "998000431e45973e4c24a2837651e234feef3e7c",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -365,7 +365,7 @@
     },
     "com.unity.2d.spriteshape@10.0.6": {
       "name": "com.unity.2d.spriteshape",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.spriteshape@bd096f9a5815",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.spriteshape@bd096f9a5815",
       "fingerprint": "bd096f9a58153b3fab6d968be6480077748d80c4",
       "editorCompatibility": "2023.1.0a1",
       "version": "10.0.6",
@@ -373,7 +373,7 @@
     },
     "com.unity.2d.tilemap@1.0.0": {
       "name": "com.unity.2d.tilemap",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.tilemap@6b0f304b6f1c",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.tilemap@6b0f304b6f1c",
       "fingerprint": "6b0f304b6f1cb5f79286717fb7518b7c47adabcd",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -381,7 +381,7 @@
     },
     "com.unity.2d.tilemap.extras@4.0.2": {
       "name": "com.unity.2d.tilemap.extras",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.tilemap.extras@6a6fc3dece59",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.tilemap.extras@6a6fc3dece59",
       "fingerprint": "6a6fc3dece599bfc4df5dd2cb0da6635868f1281",
       "editorCompatibility": "2023.1.0a1",
       "version": "4.0.2",
@@ -389,7 +389,7 @@
     },
     "com.unity.2d.aseprite@1.1.6": {
       "name": "com.unity.2d.aseprite",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.aseprite@522628f770b9",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.aseprite@522628f770b9",
       "fingerprint": "522628f770b9d2c3ae8997a62e0d830ab761b320",
       "editorCompatibility": "2021.3.15f1",
       "version": "1.1.6",
@@ -397,7 +397,7 @@
     },
     "com.unity.searcher@4.9.2": {
       "name": "com.unity.searcher",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.searcher@90d011a70418",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.searcher@90d011a70418",
       "fingerprint": "90d011a70418fd5b0f4b8e86df39444d2af228dd",
       "editorCompatibility": "2019.1.0a1",
       "version": "4.9.2",
@@ -405,7 +405,7 @@
     },
     "com.unity.burst@1.8.18": {
       "name": "com.unity.burst",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.burst@616862665d8c",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.burst@616862665d8c",
       "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.8.18",
@@ -413,7 +413,7 @@
     },
     "com.unity.mathematics@1.3.2": {
       "name": "com.unity.mathematics",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.mathematics@8017b507cc74",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.mathematics@8017b507cc74",
       "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.2",
@@ -421,7 +421,7 @@
     },
     "com.unity.collections@2.4.3": {
       "name": "com.unity.collections",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.collections@eba9b2ae55c0",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.collections@eba9b2ae55c0",
       "fingerprint": "eba9b2ae55c09c3548eaeac72a96dda87b0640cf",
       "editorCompatibility": "2022.3.11f1",
       "version": "2.4.3",
@@ -429,7 +429,7 @@
     },
     "com.unity.rendering.light-transport@1.0.1": {
       "name": "com.unity.rendering.light-transport",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.rendering.light-transport@d423ae2c0d54",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.rendering.light-transport@d423ae2c0d54",
       "fingerprint": "d423ae2c0d54ccbd49a961eef017380a7b1b025e",
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
@@ -437,7 +437,7 @@
     },
     "com.unity.2d.common@9.0.6": {
       "name": "com.unity.2d.common",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.common@a819feaf0369",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.2d.common@a819feaf0369",
       "fingerprint": "a819feaf03690d15a1e56c9aaf0bcd8e7e275bc5",
       "editorCompatibility": "2023.1.0a1",
       "version": "9.0.6",
@@ -445,7 +445,7 @@
     },
     "com.unity.nuget.mono-cecil@1.11.4": {
       "name": "com.unity.nuget.mono-cecil",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f",
       "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
       "editorCompatibility": "2018.4.0a1",
       "version": "1.11.4",
@@ -453,7 +453,7 @@
     },
     "com.unity.test-framework.performance@3.0.3": {
       "name": "com.unity.test-framework.performance",
-      "resolvedPath": "/home/kzdesigner/Documents/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.test-framework.performance@fb0dc592af8b",
+      "resolvedPath": "/home/kzdesigner/Documents/UnityProjects/2oDAM-1T_PMDM-Videojuego_con_Unity/Library/PackageCache/com.unity.test-framework.performance@fb0dc592af8b",
       "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.0.3",
