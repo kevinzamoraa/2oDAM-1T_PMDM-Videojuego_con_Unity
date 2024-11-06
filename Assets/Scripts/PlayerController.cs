@@ -23,8 +23,8 @@ public class PlayerController : MonoBehaviour
         // Movimiento
         horizontal = Input.GetAxisRaw("Horizontal");
 
-        if (horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
-        else if (horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+        if (horizontal < 0.0f) transform.localScale = new Vector3(-2.0f, 2.0f, 2.0f);
+        else if (horizontal > 0.0f) transform.localScale = new Vector3(2.0f, 2.0f, 2.0f);
 
         // Detectar Suelo
         if (Physics2D.Raycast(transform.position, Vector3.down, speed))
