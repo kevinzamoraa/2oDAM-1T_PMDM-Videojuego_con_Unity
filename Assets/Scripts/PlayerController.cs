@@ -12,16 +12,19 @@ public class PlayerController : MonoBehaviour
 
     private Vector2 input;
     private Vector3 direction;
+    private Animator Animator;
 
     private void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
+        Animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
         // Movimiento
         horizontal = Input.GetAxisRaw("Horizontal");
+        Animator.SetBool("running", horizontal != 0.0f);
 
         if (horizontal < 0.0f) transform.localScale = new Vector3(-2.0f, 2.0f, 2.0f);
         else if (horizontal > 0.0f) transform.localScale = new Vector3(2.0f, 2.0f, 2.0f);
