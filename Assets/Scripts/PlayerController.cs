@@ -51,7 +51,7 @@ public class PlayerController : MonoBehaviour
 
     private void Jump()
     {
-        Rigidbody2D.AddForce(Vector2.up * jumpForce);
+        Rigidbody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Force);
     }
 
 }
