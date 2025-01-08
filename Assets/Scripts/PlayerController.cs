@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour
     private Vector3 direction;
     private Animator Animator;
 
+    public TokenController tokenController;
+
     Vector2 startPos;
 
     private void Start()
@@ -59,7 +61,16 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Die();
+        if (collision.gameObject.CompareTag("Obstacle"))
+        {
+            Die();
+        }
+        
+        if (collision.gameObject.CompareTag("Token"))
+        {
+            Destroy(collision.gameObject);
+            tokenController.tokenCount++;
+        }
     }
 
     void Die()
