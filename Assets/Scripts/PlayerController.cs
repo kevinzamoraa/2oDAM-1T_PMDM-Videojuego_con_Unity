@@ -65,6 +65,12 @@ public class PlayerController : MonoBehaviour
         {
             Die();
         }
+
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Destroy(collision.gameObject);
+            Die();
+        }
         
         if (collision.gameObject.CompareTag("Token"))
         {
