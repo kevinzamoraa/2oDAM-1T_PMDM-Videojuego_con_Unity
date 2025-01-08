@@ -14,10 +14,13 @@ public class PlayerController : MonoBehaviour
     private Vector3 direction;
     private Animator Animator;
 
+    Vector2 startPos;
+
     private void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
+        startPos = transform.position;
     }
 
     private void Update()
@@ -52,6 +55,21 @@ public class PlayerController : MonoBehaviour
     private void Jump()
     {
         Rigidbody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Force);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Die();
+    }
+
+    void Die()
+    {
+        Respawn();
+    }
+
+    void Respawn()
+    {
+        transform.position = startPos;
     }
 
 }
