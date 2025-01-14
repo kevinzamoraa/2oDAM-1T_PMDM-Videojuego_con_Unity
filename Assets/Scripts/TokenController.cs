@@ -12,6 +12,6 @@ public class TokenController : MonoBehaviour
 
     void Update()
     {
-        // tokenText.text = "Tokens:" + tokenCount.ToString();
+        tokenText.text = "Tokens:" + tokenCount.ToString();
     }
 }
